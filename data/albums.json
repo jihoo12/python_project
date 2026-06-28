@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "title": "Test Album 1",
+        "artist": "Artist A",
+        "price": 10000,
+        "stock": 0,
+        "genre": "Pop"
+    },
+    {
+        "id": 2,
+        "title": "Test Album 2",
+        "artist": "Artist B",
+        "price": 15000,
+        "stock": 10,
+        "genre": "Rock"
+    }
+]
